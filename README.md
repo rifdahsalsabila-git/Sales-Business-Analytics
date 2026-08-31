@@ -59,9 +59,9 @@ Semua query ditulis dan disimpan langsung di MySQL Workbench (`@scripts/1` dalam
 
 ```
 classicmodels-sql-analysis/
-├── classicmodels.mwb      # file model MySQL Workbench (skema + ERD + saved queries)
-├── queries.sql            # (opsional) export semua query jadi file .sql terpisah
-├── erd.png                # (opsional) screenshot/export diagram ERD
+├── sql workbench.mwb          # file model MySQL Workbench (skema + ERD + saved queries)
+├── sql syntax.sql             # (opsional) export semua query jadi file .sql terpisah
+├── diagram.png                # (opsional) screenshot/export diagram ERD
 └── README.md
 ```
 
